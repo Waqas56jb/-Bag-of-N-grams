@@ -1,8 +1,8 @@
 
-# 🚀 Multi-Class Text Classification Project 🚀
+# 🚀  Bag of N grams 🚀
 
 ## 🔍 Overview
-Welcome to my **NLP Text Classification** project! This repository contains a complete implementation of a **Multi-Class Text Classification** model, where the goal is to classify news articles into one of three categories: **Business**, **Sports**, or **Crime**. 🌍
+Welcome to my  project! This repository contains a complete implementation of a ** Bag of N grams** model, where the goal is to classify news articles into one of three categories: **Business**, **Sports**, or **Crime**. 🌍
 
 ## 🛠️ Tools & Technologies
 This project leverages the following tools and technologies:
